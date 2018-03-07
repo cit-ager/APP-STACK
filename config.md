@@ -100,6 +100,8 @@ JkMount /student* worker1
 
 ### Reference DOCS.
 http://www.diegoacuna.me/installing-mod_jk-on-apache-httpd-in-centos-6-x7-x/
+
 http://www.ramkitech.com/2012/03/virtual-host-apache-httpd-server-tomcat.html
+
 https://tomcat.apache.org/tomcat-3.3-doc/mod_jk-howto.html#s83
 
